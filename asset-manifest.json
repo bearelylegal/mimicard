@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mimicard/static/css/main.d15eb1df.css",
+    "main.js": "/mimicard/static/js/main.16163b19.js",
+    "static/media/mimi.jpg": "/mimicard/static/media/mimi.db848b535f68fa5dc57c.jpg",
+    "index.html": "/mimicard/index.html",
+    "main.d15eb1df.css.map": "/mimicard/static/css/main.d15eb1df.css.map",
+    "main.16163b19.js.map": "/mimicard/static/js/main.16163b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d15eb1df.css",
+    "static/js/main.16163b19.js"
+  ]
+}
